@@ -22,9 +22,6 @@ Additionally, I have worked with **Kali Linux** and aspire to gain experience in
   - HTML & CSS (superficially)
   - JavaScript (in progress)
   
-- **Frameworks:**  
-  - Node.js (aspiring)
-
 ---
 
 ## 📚 Current Learning Goals
