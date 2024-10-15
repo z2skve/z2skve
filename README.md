@@ -16,7 +16,7 @@ Additionally, I have worked with **Kali Linux** and aspire to gain experience in
   - C++ (in progress)
 
 - **Databases**
-  - SQL (in progress)
+  - PostgreSQL (in progress)
 
 - **Web Development:**  
   - HTML & CSS (superficially)
