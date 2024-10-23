@@ -44,7 +44,7 @@ Feel free to reach out for questions!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=z2skve&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=z2skve&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=z2skve&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=z2skve&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=z2skve&theme=ocean_dark&no-frame=false&no-bg=false&margin-w=4)
