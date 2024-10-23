@@ -7,35 +7,52 @@
 
 Additionally, I have worked with **Kali Linux** and aspire to gain experience in other Debian distributions. My knowledge of **Bash** scripting, together with my current use of **Zsh**, complements my interest in networking, cybersecurity, and penetration testing.
 
----
 
+## 🌐 Socials:
+Feel free to reach out for questions!
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nrn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nrn) 
+
+# 💻 Tech Stack:
 ## 🛠️ Skills
-- **Programming Languages:**  
-  - Python
-  - Java
-  - C++ (in progress)
+- **Programming Languages:**
+   
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) (in progress)  
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) (in progress)  
 
-- **Databases**
-  - PostgreSQL (in progress)
-
-- **Web Development:**  
-  - HTML & CSS (superficially)
-  - JavaScript (in progress)
+- **Databases:**
   
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) (in progress)  
+
+- **Web Development (briefly used):**
+  
+  ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 
 ## 📚 Current Learning Goals
-- JavaScript
-- Rust
-- Kotlin
-- **Maybe:** Node.js frameworks
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
-## 🌍 Let's Connect
-Feel free to reach out for questions!
+- **Open To Learning:**
+  
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-- [LinkedIn](Not available rn)
-- [Twitter](Not available rn)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=z2skve&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=z2skve&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=z2skve&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=z2skve&theme=ocean_dark&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=z2skve&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+
+<!-- I created this repo with GPRM -->
 
 ---
 
