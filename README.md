@@ -21,6 +21,8 @@
 
 # 💻Tech Stack:
 ## 🛠️Skills
+  > In this section, I gather all the programming languages I have used throughout my learning journey.
+
 - **Programming Languages:**
   
   ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,9 +36,7 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
 - **Web Development:**
-
-  In this section, I gather all the programming languages I have used throughout my learning journey.
-  
+    
   ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   
