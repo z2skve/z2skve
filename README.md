@@ -3,7 +3,9 @@
 > [!NOTE] 
 > **ABOUT ME**
 > 
-> I am currently majoring in **Computer Science** with a strong passion for programming and technology. Fluent in **Spanish** and **English**, I am also learning **Portuguese**. I enjoy exploring new programming paradigms and participating in coding challenges, such as the annual Advent of Code.
+> My name is **Marco Alcalde Campos**, and I am currently majoring in **Computer Science** at the **University of Alcalá**. I have a strong passion for programming and technology, and I enjoy exploring new programming paradigms and participating in coding challenges such as the annual **Advent of Code**.
+>
+> I am fluent in Spanish and English, and currently learning Portuguese.
 >
 > Additionally, I have worked with **Kali Linux** and aspire to gain experience in other Debian distributions. My knowledge of **Bash** scripting complements my interest in networking, cybersecurity, and penetration testing.
 
@@ -72,7 +74,7 @@
 ## 🌐Socials:
 Feel free to reach out for questions!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nrn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nrn) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_z2sk_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://es.linkedin.com/in/marco-alcalde-campos-9a785130b) 
 ---
 
 <p align="center">
