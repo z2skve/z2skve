@@ -61,7 +61,7 @@ I'm a Computer Science student passionate about building solid programming found
 ---
 
 ## 📚Current Learning Goals
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 
 <!-- I created this repo with GPRM -->
 ---
