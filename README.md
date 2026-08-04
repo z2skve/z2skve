@@ -20,11 +20,7 @@
 I'm a Computer Science student passionate about building solid programming foundations through personal projects and competitive coding challenges like **Advent of Code**. I enjoy working close to the system level and writing clean, efficient code.
 
 - 🎓 Studying **Computer Science** at Universidad de Alcalá (UAH)
-- 🐧 Daily driver: **Debian-based Linux** systems
-- 🏆 Participant in **Advent of Code** — yearly competitive programming challenges
 - 🌱 Currently expanding into **Rust** and **Kotlin**
-- 💬 Open to collaboration on open-source projects
-
 ---
 
 ## 📖Table of Contents
@@ -40,23 +36,11 @@ I'm a Computer Science student passionate about building solid programming found
 ---
 
 # 💻Tech Stack:
-## 🛠️Skills
 - **Programming Languages:**
   
   ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Java](https://img.shields.io/badge/java-%23F89820.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
-
-- **Databases:**
-  
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-- **Web Development:**
-    
-  ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
   
 ---
 
