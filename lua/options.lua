@@ -14,6 +14,7 @@ vim.opt.smartindent = true
 
 vim.opt.mouse = ""
 vim.opt.hlsearch = false
+vim.opt.termguicolors = true
 
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
