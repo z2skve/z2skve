@@ -4,3 +4,7 @@ vim.keymap.set("n", "<leader>f", function()
     })
 end)
 
+vim.keymap.set("n", "<leader>d", function ()
+    vim.diagnostic.enable(!vim.diagnostic.is_enabled());
+    print(vim.diagnostic.is_enabled())
+end)
