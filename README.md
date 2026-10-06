@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Marco Alcalde</h1>
+<h1 align="center">This is Marco Alcalde</h1>
 
 <p align="center">
   <em>Computer Science Student · University of Alcalá (UAH) · Spain</em>
@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://es.linkedin.com/in/marco-alcalde-campos-9a785130b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%23005785.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_z2sk_/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23660000.svg?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -17,48 +17,51 @@
 
 ## About Me
 
-I'm a Computer Science student passionate about building solid programming foundations through personal projects and competitive coding challenges like **Advent of Code**. I enjoy working close to the system level and writing clean, efficient code.
-
-- 🎓 Studying **Computer Science** at Universidad de Alcalá (UAH)
-- 🌱 Currently expanding into **Rust** and **Kotlin**
+I'm a Software Engineering passionate focused on software development, machine learning and security. Based in Madrid, Spain.
+ 
+Currently working on machine-learning classification of encrypted network traffic, with a strong interest in ML algorithms and performance tuning.
+ 
 ---
 
-## 📖Table of Contents
+- I like to participate in coding challenges like **Advent of Code** and on my free time I enjoy working close to the system level and writing clean, efficient code.
+
+---
+
+## 📖 Table of Contents
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Computer+Science+Student;Advent+of+Code+participant;Learning+Rust+%26+Kotlin" />
-  </a>
-  <br/>
   <a href="https://leetcard.jacoblin.cool/z2skve">
     <img src="https://leetcard.jacoblin.cool/z2skve?theme=dark&font=Fira+Code&ext=heatmap" />
   </a>
 </p>
 ---
 
-# 💻Tech Stack:
-- **Programming Languages:**
-  
-  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23F89820.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
+## Skills
+ 
+| | |
+| :-- | :-- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-24292f?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-24292f?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Tools** | ![Linux](https://img.shields.io/badge/Linux-24292f?style=flat-square&logo=linux&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-24292f?style=flat-square&logo=neovim&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-24292f?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white) |
+| **Concepts** | ![OOP](https://img.shields.io/badge/OOP-24292f?style=flat-square) ![Asynchronous I/O](https://img.shields.io/badge/Asynchronous%20I/O-24292f?style=flat-square) ![Producer-Consumer](https://img.shields.io/badge/Producer--Consumer-24292f?style=flat-square) ![Q-Learning](https://img.shields.io/badge/Q--Learning-24292f?style=flat-square) ![Genetic Algorithms](https://img.shields.io/badge/Genetic%20Algorithms-24292f?style=flat-square) ![Reward Shaping](https://img.shields.io/badge/Reward%20Shaping-24292f?style=flat-square) ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-24292f?style=flat-square) |
+
+<sub>Not exhaustive: I've worked with other languages and environments beyond those listed.</sub>
+
 ---
 
-## 📚Current Learning Goals
+## Education
+ 
+> **B.Sc. Computer Engineering** — Universidad de Alcalá (UAH), 2022 – present
+
+---
+
+## Languages
+ 
+Spanish (native) · English (advanced) · Portuguese (advanced)
+
+---
+## 📚 Current Learning Goals
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 
 <!-- I created this repo with GPRM -->
----
-
-### Tools & Environments
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeLite-000000?style=flat-square&logo=codelite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-</p>
-
 ---
 
 <p align="center">
