@@ -14,6 +14,14 @@ return {
                         "--fallback-style=WebKit",
                     },
                 },
+                --[[
+                jdtls = {
+                    root_dir = function(fname)
+                        return vim.fs.root(fname, { ".git", "mvnw", "gradlew", "pom.xml", "build.gradle" })
+                            or vim.fs.dirname(fname)
+                    end,
+                },
+                ]]--
                 -- lua_ls = {},
                 -- pyright = {},
             }
