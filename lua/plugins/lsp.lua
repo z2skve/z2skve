@@ -14,16 +14,11 @@ return {
                         "--fallback-style=WebKit",
                     },
                 },
-                --[[
-                jdtls = {
-                    root_dir = function(fname)
-                        return vim.fs.root(fname, { ".git", "mvnw", "gradlew", "pom.xml", "build.gradle" })
-                            or vim.fs.dirname(fname)
-                    end,
+                html = {},
+                cssls = {},
+                emmet_ls = {
+                    filetypes = { "html", "css", "sass", "scss", "less" },
                 },
-                ]]--
-                -- lua_ls = {},
-                -- pyright = {},
             }
 
             -- Assign local configuration to each of the lsp servers

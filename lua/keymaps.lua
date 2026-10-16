@@ -36,7 +36,7 @@ vim.keymap.set("x", "]", '"zc[<C-r>z]<Esc>', { desc = "Surround selection with [
 vim.keymap.set("x", "{", '"zc{<C-r>z}<Esc>', { desc = "Surround selection with {}" })
 vim.keymap.set("x", "}", '"zc{<C-r>z}<Esc>', { desc = "Surround selection with {}" })
 
-vim.keymap.set("x", '"', '\"zc"<C-r>z"<Esc>', { desc = 'Surround selection with ""' })
+-- vim.keymap.set("x", '"', '\"zc"<C-r>z"<Esc>', { desc = 'Surround selection with ""' })
 vim.keymap.set("x", "'", "\"zc'<C-r>z'<Esc>", { desc = "Surround selection with ''" })
 
 -- ==========================================================

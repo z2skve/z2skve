@@ -16,6 +16,11 @@ return {
         local auto_select = true
         return {
             auto_brackets = {}, -- configure any filetype to auto add brackets
+            snippet = {
+                expand = function(args)
+                    vim.snippet.expand(args.body)
+                end,
+            },
             completion = {
                 completeopt = "menu,menuone,noinsert" .. (auto_select and "" or ",noselect"),
             },
