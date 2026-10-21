@@ -44,3 +44,16 @@ vim.keymap.set("x", "'", "\"zc'<C-r>z'<Esc>", { desc = "Surround selection with 
 -- ==========================================================
 vim.keymap.set("n", "<leader>.", "<cmd>Telescope oldfiles<CR>", { desc = "Find recent files (Telescope)" })
 
+-- ==========================================================
+-- Search and replace
+-- ==========================================================
+-- Replace word under cursor globally in file (exact word boundary)
+vim.keymap.set("n", "<leader>s", [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]], { desc = "Replace word globally in file" })
+
+-- Replace word occurrences inside visual selection only
+vim.keymap.set("x", "<leader>s", [[:s///g<Left><Left><Left>]], { desc = "Replace word in visual selection" })
+
+-- Clear search highlights when pressing <Esc> in normal mode
+vim.keymap.set("n", "<Esc>", "<cmd>nohlsearch<CR><Esc>", { desc = "Clear search highlight" })
+
+

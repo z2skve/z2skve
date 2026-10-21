@@ -30,6 +30,13 @@ local function run_current_file()
         cmd = string.format("go run %s", file)
     elseif ft == "java" then
         cmd = string.format("javac %s && java %s", file, vim.fn.expand("%:t:r"))
+    elseif ft == "svelte" then
+        if vim.fn.filereadable("package.json") == 1 then
+            cmd = "npm run dev"
+        else
+            vim.notify("No package.json found for Svelte project", vim.log.levels.WARN)
+            return
+        end
     else
         vim.notify("No run command configured for filetype: " .. ft, vim.log.levels.WARN)
         return

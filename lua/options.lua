@@ -13,7 +13,8 @@ vim.opt.softtabstop = 4
 vim.opt.smartindent = true
 
 vim.opt.mouse = ""
-vim.opt.hlsearch = false
+vim.opt.hlsearch = true
+vim.opt.incsearch = true
 vim.opt.termguicolors = true
 
 vim.g.mapleader = " "

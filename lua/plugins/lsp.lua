@@ -17,8 +17,21 @@ return {
                 html = {},
                 cssls = {},
                 emmet_ls = {
-                    filetypes = { "html", "css", "sass", "scss", "less" },
+                    filetypes = { "html", "css", "sass", "scss", "less", "svelte" },
                 },
+                rust_analyzer = {
+                    settings = {
+                        ["rust-analyzer"] = {
+                            check = {
+                                command = "clippy",
+                            },
+                            cargo = {
+                                allFeatures = true,
+                            },
+                        },
+                    },
+                },
+                svelte = {},
             }
 
             -- Assign local configuration to each of the lsp servers

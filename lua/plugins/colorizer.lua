@@ -2,7 +2,7 @@ return {
     "NvChad/nvim-colorizer.lua",
     event = { "BufReadPre", "BufNewFile" },
     opts = {
-        filetypes = { "html", "css", "scss", "sass", "less", "javascript", "typescript", "lua" },
+        filetypes = { "html", "css", "scss", "sass", "less", "javascript", "typescript", "svelte", "lua" },
         user_default_options = {
             RGB = true,
             RRGGBB = true,
