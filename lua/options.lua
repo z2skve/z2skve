@@ -20,3 +20,16 @@ vim.opt.termguicolors = true
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
 
+-- C and C++ Google Style Guide (2 spaces, no tabs, 80 columns)
+vim.api.nvim_create_autocmd("FileType", {
+    group = vim.api.nvim_create_augroup("GoogleCppStyle", { clear = true }),
+    pattern = { "c", "cpp", "h", "hpp" },
+    callback = function()
+        vim.opt_local.expandtab = true
+        vim.opt_local.tabstop = 2
+        vim.opt_local.shiftwidth = 2
+        vim.opt_local.softtabstop = 2
+        vim.opt_local.textwidth = 80
+    end,
+})
+

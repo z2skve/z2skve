@@ -11,7 +11,10 @@ return {
                     cmd = {
                         "clangd",
                         "--background-index",
-                        "--fallback-style=WebKit",
+                        "--fallback-style=Google",
+                    },
+                    init_options = {
+                        fallbackFlags = { "-std=c++23" },
                     },
                 },
                 html = {},

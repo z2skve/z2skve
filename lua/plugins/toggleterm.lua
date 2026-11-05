@@ -9,7 +9,7 @@ local function run_current_file()
     if ft == "c" then
         cmd = string.format("gcc -Wall -Wextra %s -o %s && ./%s", file, file_no_ext, file_no_ext)
     elseif ft == "cpp" then
-        cmd = string.format("g++ -Wall -Wextra -std=c++17 %s -o %s && ./%s", file, file_no_ext, file_no_ext)
+        cmd = string.format("g++ -Wall -Wextra -std=c++23 %s -o %s && ./%s", file, file_no_ext, file_no_ext)
     elseif ft == "python" then
         cmd = string.format("python3 %s", file)
     elseif ft == "rust" then
